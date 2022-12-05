@@ -40,3 +40,22 @@ En esta version se implementaron botones a partir de la herramienta bottomNaviga
 ![image](https://user-images.githubusercontent.com/110575826/205743896-188111ec-35f6-4c20-be00-fec9f0c054b2.png)
 
 Esta ultima version contiene 30 imagenes que se ajustan en grillas, ademas contiene un boton flotante una etiqueta muy util para que se pueda visualizar todo el contenido haciendo scroll es 'SingleChildScrollView'.
+
+### portafolio
+
+![image](https://user-images.githubusercontent.com/110575826/205746722-aa05d233-eca3-465c-8244-771ac8e76e89.png)
+
+![image](https://user-images.githubusercontent.com/110575826/205746734-c14a73e6-bad3-489a-9246-e77fdcdc6a43.png)
+
+Este proyecto muestra un listado de productos donde al hacerle click a cada uno, mostrara los detalles y el nombre del producto, tambien se organizo cada clase en un archivo dart aparte para organizarlo mucho mejor y tambien se empieza a crear directorios para clasificar los archivos.
+
+### portafolio_v1
+
+![image](https://user-images.githubusercontent.com/110575826/205748370-f5c6c8e9-c7bd-4b5e-9fa1-83f1a7edd4ed.png)
+
+![image](https://user-images.githubusercontent.com/110575826/205748398-dd8c88f9-df43-4816-8036-e5aa28b81353.png)
+
+Esta version mejorada muestra las imagenes y texto distinto en cada uno de los productos desplegados, mostrando el nombre del producto, la imagen del producto y sus detalles con un precio
+
+
+
