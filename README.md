@@ -55,7 +55,19 @@ Este proyecto muestra un listado de productos donde al hacerle click a cada uno,
 
 ![image](https://user-images.githubusercontent.com/110575826/205748398-dd8c88f9-df43-4816-8036-e5aa28b81353.png)
 
-Esta version mejorada muestra las imagenes y texto distinto en cada uno de los productos desplegados, mostrando el nombre del producto, la imagen del producto y sus detalles con un precio
+Esta version mejorada muestra las imagenes y texto distinto en cada uno de los productos desplegados, mostrando el nombre del producto, la imagen del producto y sus detalles con un precio.
+
+### palabras_v0
+
+![image](https://user-images.githubusercontent.com/110575826/205750604-f47e0f64-157d-4638-a9c8-8fe60b5a9b90.png)
+
+![image](https://user-images.githubusercontent.com/110575826/205750628-ffd72685-ad03-40a2-9e91-45689d1b390a.png)
+
+Este proyecto trata de un generador de palabras, donde podemos seleccionar palabras como favoritas y añadirlas a una lista, ademas se importa 'package:english_words/english_words.dart' para generar palabras aleatorias en ingles, por lo tanto se crea un listado de estas y cualquiera puede ser agregada coo favorita.
+
+### dashboard_v0
+
+
 
 
 
