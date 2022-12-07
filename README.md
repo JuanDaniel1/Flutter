@@ -27,11 +27,15 @@ En este repositorio se muestran varios proyectos de flutter, utilizados para el 
 
 Este primer proyecto consiste en una galeria que contiene 4 imagenes, por lo tanto se importa 'package:flutter/material.dart' para utilizar los materiales y herramientas que flutter contiene para elaborar esta galeria, tambien importamos 'package:flutter/rendering.dart' para crear cuadros utiles como plantilla y sirven para ajustar las imagenes contenidas en cada uno de estos.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### galeria_v1
 
 ![image](https://user-images.githubusercontent.com/110575826/205742059-2e2de38f-fa95-4a51-aab6-6be58287504a.png)
 
 En esta version se implementaron botones a partir de la herramienta bottomNavigationBar que esta contenido en Scaffold que contiene herramientas para construir un appBar, body y bottomNavigationBar.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### galeria_v2
 
@@ -39,7 +43,10 @@ En esta version se implementaron botones a partir de la herramienta bottomNaviga
 
 ![image](https://user-images.githubusercontent.com/110575826/205743896-188111ec-35f6-4c20-be00-fec9f0c054b2.png)
 
-Esta ultima version contiene 30 imagenes que se ajustan en grillas, ademas contiene un boton flotante una etiqueta muy util para que se pueda visualizar todo el contenido haciendo scroll es 'SingleChildScrollView'.
+Esta ultima version contiene 30 imagenes que se ajustan en grillas, ademas contiene un boton flotante una etiqueta muy util para que se pueda visualizar todo el 
+contenido haciendo scroll es 'SingleChildScrollView'.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### portafolio
 
@@ -49,6 +56,8 @@ Esta ultima version contiene 30 imagenes que se ajustan en grillas, ademas conti
 
 Este proyecto muestra un listado de productos donde al hacerle click a cada uno, mostrara los detalles y el nombre del producto, tambien se organizo cada clase en un archivo dart aparte para organizarlo mucho mejor y tambien se empieza a crear directorios para clasificar los archivos.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### portafolio_v1
 
 ![image](https://user-images.githubusercontent.com/110575826/205748370-f5c6c8e9-c7bd-4b5e-9fa1-83f1a7edd4ed.png)
@@ -57,6 +66,8 @@ Este proyecto muestra un listado de productos donde al hacerle click a cada uno,
 
 Esta version mejorada muestra las imagenes y texto distinto en cada uno de los productos desplegados, mostrando el nombre del producto, la imagen del producto y sus detalles con un precio.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### palabras_v0
 
 ![image](https://user-images.githubusercontent.com/110575826/205750604-f47e0f64-157d-4638-a9c8-8fe60b5a9b90.png)
@@ -64,6 +75,8 @@ Esta version mejorada muestra las imagenes y texto distinto en cada uno de los p
 ![image](https://user-images.githubusercontent.com/110575826/205750628-ffd72685-ad03-40a2-9e91-45689d1b390a.png)
 
 Este proyecto trata de un generador de palabras, donde podemos seleccionar palabras como favoritas y añadirlas a una lista, ademas se importa 'package:english_words/english_words.dart' para generar palabras aleatorias en ingles, por lo tanto se crea un listado de estas y cualquiera puede ser agregada coo favorita.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### dashboard_v0
 
