@@ -80,7 +80,42 @@ Este proyecto trata de un generador de palabras, donde podemos seleccionar palab
 
 ### dashboard_v0
 
+![image](https://user-images.githubusercontent.com/110575826/208762104-1b9481b5-af3d-47f5-92f7-832c632c9084.png)
 
+![image](https://user-images.githubusercontent.com/110575826/208762167-6c260d90-0bf7-445c-a131-aa72550e0a98.png)
 
+![image](https://user-images.githubusercontent.com/110575826/208762239-844b8f80-d5a6-49b8-a803-7e53cc317f35.png)
 
+Este dashboard es una plantilla responsive donde se ordenan los cuadros dependiendo del dispositivo donde se ejecute, por lo tanto se crearon archivos para escritorio, tablet y movil con sus modificaciones para que la interfaz cambie.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### dashboard_v1
+
+![image](https://user-images.githubusercontent.com/110575826/208763809-5a14f8a2-78c2-4f1c-abb2-8ad2322c3788.png)
+
+![image](https://user-images.githubusercontent.com/110575826/208763854-df7ff57c-7ddf-48d8-a8df-b9153091e914.png)
+
+![image](https://user-images.githubusercontent.com/110575826/208764470-f816d533-80fc-4d29-91a2-ad881a0e7b88.png)
+
+Esta version contiene varias imagenes, incluyendo una imagen publicitaria con testo encima, botones en la parte inferior y varias imagenes de productos con la descripcion al lado de cada una y un boton de compra y mas informacion.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Carrito_compras_v0
+
+![image](https://user-images.githubusercontent.com/110575826/208766613-64f83f4f-3724-4427-84cd-06a8b814b115.png)
+
+![image](https://user-images.githubusercontent.com/110575826/208766809-12351fb4-df32-49fc-8338-6338ee97843d.png)
+
+El carrito de compras contiene una lista de productos con imagen y su nombre, ademas un boton para agregar al carro de compras, cada vez que se seleccione un producto, el numero en el icono va aumentando, al entrar en ese icono, se muestran los productos seleccionados anteriormente.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Carrito_compras_v1
+
+![image](https://user-images.githubusercontent.com/110575826/208768576-e697e01b-5be3-4758-ba51-d2fed1ed234a.png)
+
+![image](https://user-images.githubusercontent.com/110575826/208768660-00f7b5dd-5d8e-41bb-a3d5-beaf6218372c.png)
+
+Esta version contiene imagenes de cada producto y en el carro de compras aparece el producto con la cantidad que el usuario desee y el precio sumado por la cantidad, ademas contiene el total, IVA y el total con IVA.
