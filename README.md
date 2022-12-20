@@ -119,3 +119,17 @@ El carrito de compras contiene una lista de productos con imagen y su nombre, ad
 ![image](https://user-images.githubusercontent.com/110575826/208768660-00f7b5dd-5d8e-41bb-a3d5-beaf6218372c.png)
 
 Esta version contiene imagenes de cada producto y en el carro de compras aparece el producto con la cantidad que el usuario desee y el precio sumado por la cantidad, ademas contiene el total, IVA y el total con IVA.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Login_ui
+
+![image](https://user-images.githubusercontent.com/110575826/208773027-9d8adb64-a568-41b1-b6e6-83cb0fc3ab86.png)
+
+![image](https://user-images.githubusercontent.com/110575826/208773074-78e588f1-ebed-4e1d-a64f-149af417aa95.png)
+
+![image](https://user-images.githubusercontent.com/110575826/208774009-aa7dfb5f-2b16-43bd-a2b3-0ea26b123e10.png)
+
+![image](https://user-images.githubusercontent.com/110575826/208774050-7477087f-b92a-4c41-a62a-652ac2ce1e95.png)
+
+Este login contiene una base de datos firebase, en este caso se debe realizar la instalacion de firebase_cli para poder enlazar el proyecto con el login a traves de varios comandos ( flutter pub add firebase_core, flutter pub add firebase_auth, flutter pub add cloud_firestore, flutter pub add provider, dart pub global actívate flutterfire_cli, dart pub global activate flutterfire_cli, flutterfire configure), tambien se debe tener en cuenta habilitar el modo de desarrollador para que el codigo se pueda ejecutar correctamente. Como se puede observar, el login contiene la seccion para iniciar sesion, registrarse, recuperar la contraseña y la pagina de inicio, ademas para recuperar la contraseña, llega una notificacion al correo para poder cambiarla.
